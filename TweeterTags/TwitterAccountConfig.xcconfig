@@ -1,0 +1,10 @@
+//
+//  TwitterAccountConfig.xcconfig
+//  TweeterTags
+//
+//  Created by COMP47390-41550 on 21/01/2018.
+//  Copyright © 2018 COMP47390-41550. All rights reserved.
+//
+
+TWITTER_CONSUMER_KEY = TOCOPY
+TWITTER_CONSUMER_SECRET = TOCOPY
